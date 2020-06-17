@@ -19,3 +19,4 @@ swap	KEYWORD2
 #######################################
 INPUT_PULLDOWN_16	LITERAL1
 PWMRANGE	LITERAL1
+fffffffffffffffffffffffffffffff
